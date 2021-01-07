@@ -1,4 +1,5 @@
-"""Ideas were taken from https://stackoverflow.com/questions/9625663/calculating-and-printing-the-nth-prime-number/9704912 and https://stackoverflow.com/questions/2068372/fastest-way-to-list-all-primes-below-n"""
+#The original idea came from the kata Row of the odd triangle, 
+#"""Ideas were taken from https://stackoverflow.com/questions/9625663/calculating-and-printing-the-nth-prime-number/9704912 and https://stackoverflow.com/questions/2068372/fastest-way-to-list-all-primes-below-n"""
 import math
 def prime_row(n):
     if n <=6:
